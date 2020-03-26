@@ -8,11 +8,7 @@ namespace ConsoleApp1
 {
     class NewClass
     {
-<<<<<<< HEAD
         public void Metoda()
-=======
-        public void drugaMetoda()
->>>>>>> 03b400c4ac3b4776f2b94d21520cb18f353e36ac
         {
         }
     }
